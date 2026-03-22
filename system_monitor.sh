@@ -13,7 +13,7 @@ log_action() {
 # Show CPU & Memory
 show_usage() {
     echo "----- CPU and Memory Usage -----"
-    top -b -n1 | head -5
+    top -b -n1 | head -12
     log_action "Checked CPU and memory usage"
 }
 
