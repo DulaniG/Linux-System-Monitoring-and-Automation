@@ -7,6 +7,7 @@ This project contains three tasks implemented using Bash and Python to demonstra
 
 ___
 
+
 ## Project Structure
 
 AdvancedOS_1/
@@ -21,6 +22,7 @@ AdvancedOS_1/
 
 ___
 
+
 ## Requirements
 
 - Ubuntu / Linux environment
@@ -32,6 +34,7 @@ Check Python version:
 python3 --version
 
 ___
+
 
 ## How to Run the Programs:
 
@@ -82,6 +85,7 @@ Login simulation with security checks
 
 ___
 
+
 ### Features Implemented
 Process monitoring and management
 Scheduling algorithms (Round Robin & Priority)
@@ -95,6 +99,7 @@ Logs are automatically generated for system activities
 Designed for educational purposes
 
 ___
+
 
 Author
 
