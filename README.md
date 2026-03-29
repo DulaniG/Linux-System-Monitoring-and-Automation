@@ -49,7 +49,9 @@ This script allows:
 Viewing CPU and memory usage
 Monitoring processes
 Managing log files and disk usage
-__
+
+|
+|
 
 #- Task 02 – Job Scheduler (Python)
 
@@ -62,7 +64,9 @@ Submitting jobs
 Viewing job queue
 Running Round Robin and Priority scheduling
 Viewing completed jobs
-__
+
+|
+|
 
 #- Task 03 – Secure Submission System (Python)
 
