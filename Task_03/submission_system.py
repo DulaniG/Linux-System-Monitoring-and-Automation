@@ -88,7 +88,7 @@ def login():
     last_attempt_time = current_time
 
     # Simple login check
-    if password == "admin123":
+    if username == "Dulani" and password == "admin123":
         print("Login successful.")
         failed_attempts = 0
         log_action(f"{username} login success")
