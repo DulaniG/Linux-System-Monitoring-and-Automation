@@ -32,7 +32,7 @@ ___
 Check Python version:
 ```bash
 python3 --version
-
+```
 
 ## How to Run the Programs:
 
