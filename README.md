@@ -33,8 +33,6 @@ Check Python version:
 ```bash
 python3 --version
 
-___
-
 
 ## How to Run the Programs:
 
