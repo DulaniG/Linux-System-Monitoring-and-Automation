@@ -3,7 +3,7 @@ Setting up Git
 
 #Advanced Operating Systems Assignment
 
-This project contains three tasks implemented using Bash and Python to demonstrate operating system managemnet, scheduling, and security concepts.
+This project contains three tasks implemented using Bash and Python to demonstrate operating system management, scheduling, and security concepts.
 
 ___
 
@@ -49,7 +49,7 @@ This script allows:
 Viewing CPU and memory usage
 Monitoring processes
 Managing log files and disk usage
-
+__
 
 #- Task 02 – Job Scheduler (Python)
 
@@ -62,7 +62,7 @@ Submitting jobs
 Viewing job queue
 Running Round Robin and Priority scheduling
 Viewing completed jobs
-
+__
 
 #- Task 03 – Secure Submission System (Python)
 
