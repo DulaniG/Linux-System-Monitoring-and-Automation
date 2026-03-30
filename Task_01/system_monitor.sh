@@ -122,7 +122,7 @@ exit_system() {
     read -p "Are you sure you want to exit? (Y/N): " confirm
 
     if [[ "$confirm" == "Y" || "$confirm" == "y" ]]; then
-        echo "Exiting system..."
+        echo "Exiting system...Bye"
         log_action "User exited the system"
         exit 0
     else
@@ -142,7 +142,7 @@ do
     echo "4. Check Disk Usage"
     echo "5. Find Large Log Files"
     echo "6. Archive Log Files"
-    echo "7. Bye (Exit)"
+    echo "7. Exit (Bye)"
 
     read -p "Enter choice: " choice
 
