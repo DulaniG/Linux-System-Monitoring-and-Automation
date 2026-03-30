@@ -119,7 +119,7 @@ def priority_scheduling():
 def exit_system():
     confirm = input("Are you sure you want to exit? (Y/N): ")
     if confirm.lower() == "y":
-        print("Exiting system...")
+        print("Exiting system...Bye")
         exit()
     else:
         print("Cancelled.")
@@ -132,7 +132,7 @@ while True:
     print("3. Process Jobs (Round Robin)")
     print("4. Process Jobs (Priority)")
     print("5. View Completed Jobs")
-    print("6. Exit")
+    print("6. Exit (Bye)")
 
     choice = input("Enter choice: ")
 
