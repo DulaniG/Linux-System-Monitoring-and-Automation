@@ -105,7 +105,7 @@ def login():
 def exit_system():
     confirm = input("Are you sure you want to exit? (Y/N): ")
     if confirm.lower() == "y":
-        print("Exiting system...")
+        print("Exiting system...Bye")
         exit()
     else:
         print("Cancelled.")
@@ -117,7 +117,7 @@ while True:
     print("2. Check Submission")
     print("3. List Submissions")
     print("4. Login Simulation")
-    print("5. Exit")
+    print("5. Exit (Bye)")
 
     choice = input("Enter choice: ")
 
